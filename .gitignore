@@ -1,0 +1,4 @@
+node_modules
+.scannerwork
+coverage
+package-lock.json
